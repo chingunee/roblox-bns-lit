@@ -1,0 +1,38 @@
+[
+  {
+    "nfts": [
+      {
+        "smartContract": "0.0.5697804",
+        "tokenId": "2"
+      }
+    ],
+    "id": "652cdb2a61e78c49b785d1d8"
+  },
+  {
+    "nfts": [
+      {
+        "smartContract": "0.0.5697804",
+        "tokenId": "1"
+      }
+    ],
+    "id": "652cdb2a61e78c49b785d1d9"
+  },
+  {
+    "nfts": [
+      {
+        "smartContract": "0.0.5697802",
+        "tokenId": "2"
+      }
+    ],
+    "id": "652cdb2a61e78c49b785d1da"
+  },
+  {
+    "nfts": [
+      {
+        "smartContract": "0.0.5697804",
+        "tokenId": "3"
+      }
+    ],
+    "id": "652cdb2a61e78c49b785d1d7"
+  }
+]

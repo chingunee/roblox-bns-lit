@@ -1,0 +1,40 @@
+{
+  "compiler": { "version": "0.8.23+commit.f704f362" },
+  "language": "Solidity",
+  "output": {
+    "abi": [
+      {
+        "inputs": [],
+        "name": "getPseudorandomSeed",
+        "outputs": [
+          { "internalType": "bytes32", "name": "", "type": "bytes32" }
+        ],
+        "stateMutability": "nonpayable",
+        "type": "function"
+      }
+    ],
+    "devdoc": { "kind": "dev", "methods": {}, "version": 1 },
+    "userdoc": { "kind": "user", "methods": {}, "version": 1 }
+  },
+  "settings": {
+    "compilationTarget": {
+      "contracts/IPrngSystemContract.sol": "IPrngSystemContract"
+    },
+    "evmVersion": "shanghai",
+    "libraries": {},
+    "metadata": { "bytecodeHash": "ipfs" },
+    "optimizer": { "enabled": false, "runs": 200 },
+    "remappings": []
+  },
+  "sources": {
+    "contracts/IPrngSystemContract.sol": {
+      "keccak256": "0xf3b1d7b00dd0b8145d50b5c61af5e43dcb6cc4891ad57167383d8ddb45fa2d98",
+      "license": "Apache-2.0",
+      "urls": [
+        "bzz-raw://578b0e6edf681e6f63967819e2ee62987c866a8bd8e9ec3b9a3e807bd522e7d4",
+        "dweb:/ipfs/QmdCbQzBuQvXYZdvRvwnzDMp79ujEqe3zPHf3uZM1qxJP9"
+      ]
+    }
+  },
+  "version": 1
+}
